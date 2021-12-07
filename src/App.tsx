@@ -16,9 +16,7 @@ function App() {
       date: new Date().toString(),
     },
   ]);
-  const handleNotes = () => {
-    // setNotes("Hello man");
-  };
+
   return (
     <>
       <Header />
